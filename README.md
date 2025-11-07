@@ -4,11 +4,6 @@
 
 <img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR6dHg0dnlxc3I5eHNjYWJlemdzMjIxZ2gzZjY3amc4NHVkeDdvNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o5ugMMqRDT6vAFMCae/giphy.gif"  />
 
-###
-
-<h1 align="center">Hi 👋! My name is Kha</h1>
-
-###
 
 <br clear="both">
 
