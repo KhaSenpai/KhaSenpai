@@ -33,6 +33,9 @@
 
 ###
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h2 align="left">My skills</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaSenpai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaSenpai&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
