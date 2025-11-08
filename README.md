@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Tran%20Minh%20Kha&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=3&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Tran%20Minh%20Kha&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=1&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 <img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR6dHg0dnlxc3I5eHNjYWJlemdzMjIxZ2gzZjY3amc4NHVkeDdvNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o5ugMMqRDT6vAFMCae/giphy.gif"  />
