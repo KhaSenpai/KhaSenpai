@@ -42,7 +42,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaSenpai&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0172.gif" border="0" alt="animated-line-image-0172" /></a>
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
